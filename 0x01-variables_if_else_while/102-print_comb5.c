@@ -1,47 +1,35 @@
 #include <stdio.h>
 
 /**
- * main - print allpossible two digit combinations
+ * main - print all posible combination of two twi digits
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int i, e, g, h, op1, op2;
+	int firstDigit = 0, secondDigit;
 
-	i = e = g = h = 48;
-	while (h < 58)
+	while (firstDigit <= 99)
 	{
-		g = 48;
-		while (g < 58)
+		secondDigit = firstDigit;
+		while (secondDigit <= 99)
 		{
-			e = 48;
-			while (e < 58)
+			if (secondDigit != firstDigit)
 			{
-				i = 48;
-				while (i < 58)
+				putchar((firstDigit / 10) + 48);
+				putchar((firstDigit % 10) + 48);
+				putchar(' ');
+				putchar((secondDigit / 10) + 48);
+				putchar((secondDigit % 10) + 48);
+				if (firstDigit != 98 || secondDigit != 99)
 				{
-					op1 = (h * 10) + g;
-					op2 = (g * 10) + i;
-					if (op1 < op2)
-					{
-						putchar(h);
-						putchar(g);
-						putchar(' ');
-						putchar(e);
-						putchar(i);
-					if (h == 57 && g == 56 && e == 57 && i == 57)
-						break;
-						putchar(',');
-						putchar(' ');
-					}
-					i++;
+					putchar(',');
+					putchar(' ');
 				}
-				e++;
 			}
-			g++;
+			++secondDigit;
 		}
-		h++;
+		++firstDigit;
 	}
 	putchar('\n');
 	return (0);

@@ -1,29 +1,14 @@
 #include "main.h"
 
 /**
- * print_to_98 - print natural numbers from n to 98
+ * add - add two numbers
  *
- * @n: input
+ * @a: first number
+ * @b: second number
  *
- * Return: no return
+ * Return: results
  */
-void print_to_98(int n)
+int add(int a, int b)
 {
-	int count;
-
-	if (n > 98)
-	{
-		for (count = n; count > 98; --count)
-		{
-			printf("%d, ", count);
-		}
-	}
-	else
-	{
-		for (count = n; count < 98; ++count)
-		{
-			printf("%d, ", count);
-		}
-	}
-	printf("%d\n", count);
+	return (a + b);
 }

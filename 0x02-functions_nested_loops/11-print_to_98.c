@@ -4,10 +4,11 @@
  * print_to_98 - print natural numbers from n to 98
  *
  * @n: input
+ * @count: integer
  *
  * Return: no return
  */
-void print_to_98(int n);
+void print_to_98(int n)
 {
 	int count;
 

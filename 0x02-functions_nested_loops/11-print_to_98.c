@@ -4,7 +4,6 @@
  * print_to_98 - print natural numbers from n to 98
  *
  * @n: input
- * @count: integer
  *
  * Return: no return
  */

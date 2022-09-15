@@ -13,11 +13,7 @@ void more_numbers(void)
 	{
 		for (dig = 0; dig <= 14; dig++)
 		{
-			if (dig <= 9)
-			{
-				_putchar(dig);
-			}
-			else 
+			if (dig >= 10)
 			{
 				_putchar((dig / 10) + 48);
 				_putchar((dig % 10) + 48);

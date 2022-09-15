@@ -7,21 +7,19 @@
  */
 void more_numbers(void)
 {
-	int times, dig;
+	int num, row, count;
 
-	for (times = 0; times <= 9; times++)
+	for (row = 1; row <= 10; ++row)
 	{
-		for (dig = 0; dig <= 14; dig++)
+		for (count = 0; count <= 14; ++count)
 		{
-			if (dig <= 9)
+			num = count;
+			if (count > 9)
 			{
-				_putchar(dig + '0');
+				_putchar(1 + 48);
+				num = count % 10;
 			}
-			else
-			{
-				_putchar((dig / 10) + 48);
-				_putchar((dig % 10) + 48);
-			}
+			_putchar(num + 48);
 		}
 		_putchar('\n');
 	}

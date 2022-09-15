@@ -11,13 +11,17 @@ void more_numbers(void)
 
 	for (times = 0; times <= 9; times++)
 	{
-		for (dig = 0; dig <= 14; dig)
+		for (dig = 0; dig <= 14; dig++)
 		{
-			if (dig >= 10)
+			if (dig <= 9)
+			{
+				_putchar(dig);
+			}
+			else 
 			{
 				_putchar((dig / 10) + 48);
+				_putchar((dig % 10) + 48);
 			}
-			_putchar((dig % 10) + 48);
 		}
 		_putchar('\n');
 	}

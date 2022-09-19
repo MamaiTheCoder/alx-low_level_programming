@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - update the value it points to 98
  *
- * @*n - The character
+ * @n - The character
  *
  * Return: void
  */

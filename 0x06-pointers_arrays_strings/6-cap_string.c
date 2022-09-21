@@ -12,7 +12,7 @@ char *cap_string(char *s)
 	int i = 0, j;
 	int word_separators[] = {32, 9, 10, 44, 59, 46, 33, 63, 34, 40, 41, 123, 125};
 
-	if (*(s + i) >= 97 && *(s + i) <= 12)
+	if (*(s + i) >= 97 && *(s + i) <= 122)
 	{
 		*(s + i) = *(s + i) - 32;
 	}

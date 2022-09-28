@@ -7,7 +7,7 @@ ALX project done to facilitate completion of Full Stack Software Enginnering cou
 * Tested on Ubuntu 20.04
 * C files are compiled using gcc -Wall -pedantic -Werror -Wextra
 ## Files
-ALT-H
+
 Note: All file are written in c programming langauge.
 | **Filename** | **Function of the file** |
 | ------------ | ------------ |
@@ -21,6 +21,6 @@ Note: All file are written in c programming langauge.
 | 100-is_palindrome.c | Returns 1 if a string is a palindrome and 0 if not. |
 | 101-wildcmp.c | Compares two strings and returns 1 if the strings can be considered identical, otherwise return 0. |
 ## Footnotes
-[^1]: Indentation has been done by clickin on the tab once.
-[^2]: The main function is in a separate file form the targeted function.
-[^3]: The executable files are included in the project.
+Indentation has been done by clickin on the tab once[^1].
+The main function is in a separate file form the targeted function[^2].
+The executable files are included in the project[^3].

@@ -1,18 +1,16 @@
 # RECURSION
 
-ALT-H1
-
 ALX project done to facilitate completion of Full Stack Software Enginnering course. It intends to give an insight on recursion and how to use it in c programming language
 
 ## Technologies
-..* C files are written according to the C89 standard.
-..* Tested on Ubuntu 20.04
-..* C files are compiled using gcc -Wall -pedantic -Werror -Wextra
+* C files are written according to the C89 standard.
+* Tested on Ubuntu 20.04
+* C files are compiled using gcc -Wall -pedantic -Werror -Wextra
 ## Files
 ALT-H
 Note: All file are written in c programming langauge.
-| **Filename** | **Function of the file**|
-|--- | --- | --- |
+| **Filename** | **Function of the file** |
+| ------------ | ------------ |
 | 0-puts_recursion.c | Prints a string, followed by a new line. |
 | 1-print_rev_recursion.c | Prints a string in reverse. |
 | 2-strlen_recursion.c | Returns the length of a string. |

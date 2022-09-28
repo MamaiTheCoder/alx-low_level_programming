@@ -11,7 +11,7 @@ ALX project done to facilitate completion of Full Stack Software Enginnering cou
 Note: All file are written in c programming langauge.
 | **Filename** | **Function of the file** |
 | ------------ | ------------ |
-| [0-puts_recursion.c] (https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x08-recursion/0-puts_recursion) | Prints a string, followed by a new line. |
+| [0-puts_recursion.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x08-recursion/0-puts_recursion) | Prints a string, followed by a new line. |
 | 1-print_rev_recursion.c | Prints a string in reverse. |
 | 2-strlen_recursion.c | Returns the length of a string. |
 | 3-factorial.c | Returns the factorial of a given number. |

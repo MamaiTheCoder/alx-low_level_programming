@@ -21,6 +21,6 @@ Note: All file are written in c programming langauge.
 | 100-is_palindrome.c | Returns 1 if a string is a palindrome and 0 if not. |
 | 101-wildcmp.c | Compares two strings and returns 1 if the strings can be considered identical, otherwise return 0. |
 ## Footnotes
-Indentation has been done by clickin on the tab once [^1].
-The main function is in a separate file form the targeted function [^2].
-The executable files are included in the project [^3].
+Indentation has been done by clickin on the tab once. [^1]
+The main function is in a separate file form the targeted function. [^2]
+The executable files are included in the project. [^3]

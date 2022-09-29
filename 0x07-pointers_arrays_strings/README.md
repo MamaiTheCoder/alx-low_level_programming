@@ -35,3 +35,7 @@ Note: ALL files are written in c programming language.
 5. esc :wq hit enter.
 
 *The file 101-crackme_password must not contain any newline character. Unfortunately, vi/vim do this by default (hence why the checker is failing you). Remember that Vim/vi adds "newline" character to the end of the last line in your file, which should not be confused with a "new line".The "newline" character or more accurately "end of line" character (<EOL>) means "whatever comes after this point must be considered to be on another line". With this interpretation — <EOL> is a line terminator — the last line of the file is effectively the last one with an <EOL>.The problem is that most editors and IDEs have a different interpretation — <EOL> is a line separator — and, logically, default to not add an <EOL> at the end of the last line of a new file and, when they encounter an <EOL>, add a superfluous "new line" after the real last line.But you can get around that issue by doing the following: before you write your file, do :set binary noeol if you want it to stay "<EOL>-free".*
+
+## Footnotes
+main.c files were used to test the functionality of the targeted files. [^1]
+Executable files have been include to show the output. [^2]

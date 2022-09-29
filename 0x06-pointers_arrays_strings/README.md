@@ -1,12 +1,32 @@
-A function that concatenates two strings.
-A function that concatenates two strings.
-A function that copies a string.
-A function that compares two strings.
-A function that reverses the content of an array of integers.
-A function that changes all lowercase letters of a string to uppercase.
-A function that capitalizes all words of a string.
-A function that encodes a string into 1337.
-A function that encodes a string using rot13.
-A function that prints an integer.
-A function that adds two numbers.
-A function that prints a buffer.
+# MORE POINTERS, ARRAYS, and STRINGS
+ALX project done to facilitate completion of Full Stack Software engineering course. Its objective is to give an insight into pointers, arrays, and strings.
+
+## Technologies
+* C files are written according to the C89 standard.
+* Tested on Ubuntu 20.04.
+* C files are compiled using gcc -Wall -pedantic -Werror -Wextra.
+* The files have strictly followed [Betty](https://github.com/holbertonschool/Betty) coding and documentation styles.
+
+## Files
+Note: All files are written in c programming language.
+
+| **Filename** | **Function of the file** |
+| ------------ | ----------------- |
+| [0-reset_to_98.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/0-strcat.c) | Concatenates two strings. |
+| [1-strncat.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/1-strncat.c) | Concatenates two strings. |
+| [2-strncpy.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/2-strncpy.c) | Copies a string. |
+| [3-strcmp.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/3-strcmp.c) | Compares two strings. |
+| [4-rev_array.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/4-rev_array.c) | Reverses the content of an array of integers. |
+| [5-string_toupper.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/5-string_toupper.c) | Changes all lowercase letters of a string to uppercase. |
+| [6-cap_string.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/6-cap_string.c) | Capitalizes all words of a string. |
+| [7-leet.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c) | Encodes a string into 1337. |
+| [100-rot13.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/100-rot13.c) | Encodes a string using rot13. |
+| [101-print_number.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/101-print_number.c) | Prints an integer. |
+| [102-magic.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/102-magic.c) | Prints a[2] = 98, followed by a new line |
+| [103-infinite_add.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/103-infinite_add.c) | Adds two numbers. |
+| [104-print_buffer.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/104-print_buffer.c) | Prints a buffer. |
+
+## Footnotes
+Indentation has been done by clickin on the tab once. [^1] 
+The main function is in a separate file from the targeted function. [^2] 
+The executable files are included in the project. [^3]

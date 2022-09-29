@@ -3,9 +3,9 @@ ALX project done to facilitate completion of Full Stack Software engineering cou
 Its objective is to give an insight into pointers, arrays, and strings.
 
 ## Technologies
-c files are written according to the C89 standard.
-Tested on Ubuntu 20.04.
-C files are compiled using gcc -Wall -pedantic -Werror -Wextra
+* C files are written according to the C89 standard.
+* Tested on Ubuntu 20.04.
+* C files are compiled using gcc -Wall -pedantic -Werror -Wextra
 
 ## Files
 Note: ALL files are written in c programming language.

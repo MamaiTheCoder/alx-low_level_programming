@@ -4,7 +4,7 @@ ALX project done to facilitate completion of Full Stack Software engineering cou
 ## Learning Objectives 
 * understand the prototypes of main. 
 * How to use arguments passed in the program.
-* When to use __attribute__((unused)) or (void).
+* When to use [__attribute__((unused))] or (void).
 
 ## Technologies
 * C files are written according to the C89 standard.

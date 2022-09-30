@@ -17,9 +17,9 @@ ALX project done to facilitate completion of Full Stack Software engineering cou
 Note: All files are written in c programming language.
 | **Filename** | **Its Function** |
 | ----------- | ------------- |
-| libmy.a | Contains all the targeted functions. |
-| main.h | Contains all the prototypes of the functions. |
-| create_static_lib.sh | Creates a static library called liball.a from all the .c files |
+| [libmy.a](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x09-static_libraries/libmy.a) | Contains all the targeted functions. |
+| [main.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x09-static_libraries/main.h) | Contains all the prototypes of the functions. |
+| [create_static_lib.sh](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x09-static_libraries/create_static_lib.sh) | Creates a static library called liball.a from all the .c files |
 
 ## Resources
 * [Building And Using Static And Shared "C" Libraries](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)

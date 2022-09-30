@@ -17,14 +17,14 @@ Note: All files are written in c programming language.
 
 | **Filename** | **Function of the file** |
 | ---------- | ------------ |
-| [0-whatsmyname.c]() | Prints its name, followed by a new line. |
-| [1-args.c]() | Prints the number of arguments passed into it. |
-| [2-args.c]() | Prints all arguments it receives. |
-| [3-mul.c]() | Multiplies two numbers. |
-| [4-add.c]() | Adds positive numbers. |
-| [100-change.c]() | Prints the minimum number of coins to make change for an amount of money. |
+| [0-whatsmyname.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0A-argc_argv/0-whatsmyname.c) | Prints its name, followed by a new line. |
+| [1-args.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0A-argc_argv/1-args.c) | Prints the number of arguments passed into it. |
+| [2-args.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0A-argc_argv/2-args.c) | Prints all arguments it receives. |
+| [3-mul.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0A-argc_argv/3-mul.c) | Multiplies two numbers. |
+| [4-add.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0A-argc_argv/4-add.c) | Adds positive numbers. |
+| [100-change.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0A-argc_argv/100-change.c) | Prints the minimum number of coins to make change for an amount of money. |
 
 ## Useful Resources
 * [Arguements to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
-* [argc and `argv[]`](http://crasseux.com/books/ctutorial/argc-and-argv.html)
-* [What does argc and argv mean](https://www.youtube.com/watch?v=aP1ijjeZc24)
+* [argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
+* [What does `int argc` and `char* argv[]` mean](https://www.youtube.com/watch?v=aP1ijjeZc24)

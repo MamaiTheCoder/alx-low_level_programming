@@ -4,7 +4,7 @@ ALX project done to facilitate completion of Full Stack Software engineering cou
 ## Learning Objectives 
 * understand the prototypes of main. 
 * How to use arguments passed in the program.
-* When to use [__attribute__((unused))] or (void).
+* When to use `__attribute__((unused))` or (void).
 
 ## Technologies
 * C files are written according to the C89 standard.
@@ -26,5 +26,5 @@ Note: All files are written in c programming language.
 
 ## Useful Resources
 * [Arguements to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
-* [argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
+* [argc and `argv[]`](http://crasseux.com/books/ctutorial/argc-and-argv.html)
 * [What does argc and argv mean](https://www.youtube.com/watch?v=aP1ijjeZc24)

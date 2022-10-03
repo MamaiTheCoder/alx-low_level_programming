@@ -15,6 +15,8 @@ ALX project done to facilitate completion of Full Stack Software engineering cou
 * They were tested in Ubuntu 20.04.
 * The c files are compiled using gcc -Wall -pedantic -Werror -Wextra.
 * The files have strictly followed [Betty](https://github.com/holbertonschool/Betty) coding and documentation styles.
+* Prototypes of functions are in [`main.h`](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/main.h)
+* The [`_putchar.c`](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/_putchar.c) is used to wrire the character to `stdout`
 
 ## Files
 Note: All files are written in c programming language.

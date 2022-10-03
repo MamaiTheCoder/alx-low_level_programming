@@ -11,16 +11,15 @@ ALX project done to facilitate completion of Full Stack Software engineering cou
 * They were tested in Ubuntu 20.04.
 * The c files are compiled using gcc -Wall -pedantic -Werror -Wextra.
 * The files have strictly followed [Betty](https://github.com/holbertonschool/Betty) coding and documentation styles.
-* Prototypes of functions are in [main.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x03-debugging/main.h)
 
 # Files
 Note: All files are written in c programming language.
-| **Filename** | **Function of the file** |
+| **Filename** | **What to debug** |
 | ---------- | ------------- |
 | [0-main.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x03-debugging/0-main.c) | Debug code to print an output of zero. |
 | [1-main.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x03-debugging/1-main.c) | Removing infinity loop in code. |
 | [2-largest_number.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x03-debugging/2-largest_number.c) | Make code to print largest number accurately. |
-| [3-print_remaining_days.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c) | Fixing the function that print remaining days |
+| [3-print_remaining_days.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x03-debugging/3-print_remaining_days.c) | Fixing the function that print remaining days. [main.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x03-debugging/main.h) can be used to test the code. |
 
 # Useful Resources
 * [*Debugging*](https://en.wikipedia.org/wiki/Debugging)

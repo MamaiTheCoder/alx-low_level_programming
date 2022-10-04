@@ -18,6 +18,7 @@ ALX project done to facilitate completion of Full Stack Software engineering cou
 Note: All files are written in c programming language.
 
 | **Filename** | **Function of the file** |
+| ------------- | ----------- |
 | [0-positive_or_negative.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x01-variables_if_else_while/0-positive_or_negative.c) | Assigns a random number to the variable n each time it is executed. |
 | [1-last_digit.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x01-variables_if_else_while/1-last_digit.c) | Prints the last digit of the number stored in the variable n. |
 | [2-print_alphabet.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x01-variables_if_else_while/2-print_alphabet.c) | Prints the alphabet in lowercase, followed by a new line. |

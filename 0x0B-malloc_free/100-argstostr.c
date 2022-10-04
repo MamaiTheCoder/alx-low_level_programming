@@ -8,7 +8,7 @@
  * @av: arrays of arguments
  *
  * Return: point to a new string.
- * NULL, f ac == 0 or av == NULL. 
+ * NULL, f ac == 0 or av == NULL.
  */
 char *argstostr(int ac, char **av)
 {
@@ -33,7 +33,6 @@ char *argstostr(int ac, char **av)
 		free(aout);
 		return (NULL);
 	}
-	
 	for (i = j = ia = 0; ia < c; j++, ia++)
 	{
 		if (av[i][j] == '\0')

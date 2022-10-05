@@ -3,7 +3,7 @@ Sprint 1 low-level programming and algorithms done in the course of **FULL STACK
 
 ## Technologies
 * The c files are written according to the C89 standard.
-* The files have strictly followed [Betty](https://github.com/holbertonschool/Betty/wiki0 coding and documentation styles.
+* The files have strictly followed [Betty](https://github.com/holbertonschool/Betty/wiki0) coding and documentation styles.
 * The environment used is Ubuntu 20.04
 * The files are compiled using gcc -Wall -pedantic -Werror -Wextra.
 

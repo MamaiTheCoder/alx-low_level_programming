@@ -1,5 +1,5 @@
 # Low-level programming & Algorithm
-Sprint 1 low-level programming and algorithms done in the course of **FULL STACK SOFTWARE ENGINEERING at [African Leadership Experience](https://www.alxafrica.com/)
+Sprint 1 low-level programming and algorithms done in the course of **FULL STACK SOFTWARE ENGINEERING** at [African Leadership Experience](https://www.alxafrica.com/)
 
 ## Technologies
 * The c files are written according to the C89 standard.

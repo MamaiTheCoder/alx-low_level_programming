@@ -23,4 +23,5 @@ Note: The folder contains only projects in C programming language and bash.
 | [0x08. C - Recursion](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x08-recursion) | recursion |
 | [0x09. C - Static libraries](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x09-static_libraries) | C library, creating static library using `ar` and `ranlib`, using C library in a program, `nm` |
 | [0x0A. C - argc, argv](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x0A-argc_argv) | arguments to main, argc and argv |
-| [0x0B. C - malloc, free](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x0B-malloc_free) | `malloc`, `free`, `valgrind` automatic and dynamic memory allocation |
+| [0x0B. C - malloc, free](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x0B-malloc_free) | `malloc`, `free`, `valgrind`, automatic and dynamic memory allocation |
+| [0x0C. C - More malloc, free](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x0C-more_malloc_free) | `exit` function, `malloc`, `free`, `calloc`, `realloc`

@@ -11,8 +11,7 @@ ALX project done to facilitate completion of Full Stack Software engineering cou
 * The files are compiled using gcc -Wall -pedantic -Werror -Wextra.
 * The files have strictly followed [Betty](https://github.com/holbertonschool/Betty) coding and documentation styles.
 * [`main.h`](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0C-more_malloc_free/main.h) has prototypes of the functions.
-* [`_putchar.c`](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0C-more_malloc_free/_putchar.c) is used to print character in [101-mul.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob
-/master/0x0C-more_malloc_free/101-mul.c)
+* [`_putchar.c`](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0C-more_malloc_free/_putchar.c) is used to print character in [101-mul.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0C-more_malloc_free/101-mul.c)
 
 ## Files
 Note: All files are written in c programming language.

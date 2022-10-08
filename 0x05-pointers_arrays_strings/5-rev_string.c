@@ -19,13 +19,15 @@ void rev_string(char *s)
 		count++;
 	}
 
+	i = 0;
 	middle = count / 2;
 
-	for (i = 0; i < middle; i++)
+	while (middle--)
 	{
 		temp = s[i];
 		s[i] = s[count - i - 1];
 		s[count - i - 1] = temp;
+		i++;
 
 	}
 }

@@ -24,7 +24,7 @@ void rev_string(char *s)
 	for (i = 0; i < middle; i++)
 	{
 		temp = s[i];
-		s = s[count - i - 1];
+		s[i] = s[count - i - 1];
 		s[count - i - 1] = temp;
 
 	}

@@ -19,7 +19,7 @@ void rev_string(char *s)
 		count++;
 	}
 
-	middle = length / 2;
+	middle = count / 2;
 
 	for (i = 0; i < middle; i++)
 	{

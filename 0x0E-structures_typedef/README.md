@@ -16,12 +16,12 @@ ALX project done to facilitate completion of Full Stack Software Engineering cou
 ## Header Files/C Files
 | **Filename** | **Function of the File** |
 | ------- | ----------------- |
-| [dog.h]() | Defines new type struct dog. |
-| [1-init_dog.c]() | Initializes a variable of type struct dog. |
-| [2-print_dog.c]() | Prints a struct dog. |
-| [dog.h]() | Defines a new type dog_t as a new name for the type struct dog. |
-| [4-new_dog.c]() | Creates a new dog. |
-| [5-free_dog.c]() | Frees dogs. |
+| [dog.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0E-structures_typedef/dog.h) | Defines new type struct dog. |
+| [1-init_dog.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0E-structures_typedef/1-init_dog.c) | Initializes a variable of type struct dog. |
+| [2-print_dog.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0E-structures_typedef/2-print_dog.c) | Prints a struct dog. |
+| [dog.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0E-structures_typedef/dog.h) | Defines a new type dog_t as a new name for the type struct dog. |
+| [4-new_dog.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0E-structures_typedef/4-new_dog.c) | Creates a new dog. |
+| [5-free_dog.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0E-structures_typedef/5-free_dog.c) | Frees dogs. |
 
 ## Useful Resources
 * [*struct*](https://en.wikipedia.org/wiki/Struct_(C_programming_language))

@@ -18,11 +18,11 @@ ALX project done to facilitate completion of Full Stack Software Engineering cou
 ## Header Files/ C Files
 | **Filename** | **Function of the File** |
 | ---------- | ---------- |
-| [0-object_like_macro.h]() | Defines a macro named SIZE as an abbreviation for the token 1024. |
-| [1-pi.h]() | Defines a macro named PI as an abbreviation for the token 3.14159265359. |
-| [2-main.c]() | Prints the name of the file it was compiled from. |
-| [3-function_like_macro.h]() | Computes the absolute value of a number x. |
-| [4-sum.h]() | Computes the sum of the numbers x and y, SUM(x, y). |
+| [0-object_like_macro.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0D-preprocessor/0-object_like_macro.h) | Defines a macro named SIZE as an abbreviation for the token 1024. |
+| [1-pi.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0D-preprocessor/1-pi.h) | Defines a macro named PI as an abbreviation for the token 3.14159265359. |
+| [2-main.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0D-preprocessor/2-main.c) | Prints the name of the file it was compiled from. |
+| [3-function_like_macro.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0D-preprocessor/3-function_like_macro.h) | Computes the absolute value of a number x. |
+| [4-sum.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0D-preprocessor/4-sum.h) | Computes the sum of the numbers x and y, SUM(x, y). |
 
 ## Useful Resources
 * [*Understanding C program Compilation Process*](https://www.youtube.com/watch?v=eW5he5uFBNM)

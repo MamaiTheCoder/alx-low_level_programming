@@ -6,7 +6,7 @@
  */
 typedef struct dog dog_t;
 /**
- * stuct dog - keeps information of the dog.
+ * struct dog - keeps information of the dog.
  *
  * @name: name of the dog
  * @age: age of the dog

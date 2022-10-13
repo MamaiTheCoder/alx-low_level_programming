@@ -11,7 +11,7 @@ ALX project done to facilitate completion of Full Stack Software Engineering cou
 * They were tested in Ubuntu 20.04.
 * The files are compiled using gcc -Wall -pedantic -Werror -Wextra.
 * The files have strictly followed [Betty](https://github.com/holbertonschool/Betty) coding and documentation styles.
-* The prototypes of the functions are in [function_pointers.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/function_pointers.h), excluding those for 3.{filenames} with are in [3-calc.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-calc.h) and 100-main_opcodes.c.
+* Both [function_pointers.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/function_pointers.h) and  [3-calc.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-calc.h) have prototypes of targeted C files.
 
 ## Files
 **NOTE:** All Files are written in C programming language.

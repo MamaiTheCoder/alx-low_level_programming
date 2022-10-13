@@ -11,7 +11,7 @@ ALX project done to facilitate completion of Full Stack Software Engineering cou
 * They were tested in Ubuntu 20.04.
 * The files are compiled using gcc -Wall -pedantic -Werror -Wextra.
 * The files have strictly followed [Betty](https://github.com/holbertonschool/Betty) coding and documentation styles.
-* The prototypes of the functions are in [function_pointers.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/function_pointers.h).
+* The prototypes of the functions are in [function_pointers.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/function_pointers.h), excluding those for 3.{filenames} with are in [3-calc.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-calc.h) and 100-main_opcodes.c.
 
 ## Files
 **NOTE:** All Files are written in C programming language.
@@ -21,7 +21,7 @@ ALX project done to facilitate completion of Full Stack Software Engineering cou
 | [0-print_name.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/0-print_name.c) | Prints a name. |
 | [1-array_iterator.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/1-array_iterator.c) | Executes a function given as a parameter on each element of an array. |
 | [2-int_index.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/2-int_index.c) | Searches for an integer. |
-| [3-main.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-main.c) [3-op_functions.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-op_functions.c) [3-get_op_func.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c) [3-calc.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-calc.h) | Performs simple operations. |
+| [3-main.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-main.c), [3-op_functions.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-op_functions.c), [3-get_op_func.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c), [3-calc.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/3-calc.h) | Performs simple operations. |
 | [100-main_opcodes.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x0F-function_pointers/100-main_opcodes.c) | Prints the opcodes of its own main function. |
 
 ## Useful Resources

@@ -58,7 +58,7 @@ int op_div(int a, int b)
 }
 
 /**
- * 0p_mod - finds modulus of a and b
+ * op_mod - finds modulus of a and b
  *
  * @a:first number
  * @b:second number

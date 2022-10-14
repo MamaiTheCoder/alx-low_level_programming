@@ -11,7 +11,7 @@ ALX project done to facilitate completion of Full Stack Software Engineering cou
 * They were tested in Ubuntu 20.04.
 * The files are compiled using gcc -Wall -pedantic -Werror -Wextra.
 * The files have strictly followed [Betty](https://github.com/holbertonschool/Betty) coding and documentation styles.
-* The prototypes are in [variadic_functions.h](://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h).
+* The prototypes are in [variadic_functions.h](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h).
 ## Files
 **NOTE:** All files are written in C programming language.
 | **Filename** | **Its Function** |

@@ -11,15 +11,15 @@ ALX project done to facilitate completion of Full Stack Software Engineering cou
 * They were tested in Ubuntu 20.04.
 * The files are compiled using gcc -Wall -pedantic -Werror -Wextra.
 * The files have strictly followed [Betty](https://github.com/holbertonschool/Betty) coding and documentation styles.
-* The prototypes are in [variadic_functions.h]().
+* The prototypes are in [variadic_functions.h](://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x10-variadic_functions/variadic_functions.h).
 ## Files
 **NOTE:** All files are written in C programming language.
 | **Filename** | **Its Function** |
 | ------------ | ------------------- |
-| [0-sum_them_all.c]() | Returns the sum of all its parameters. |
-| [1-print_numbers.c]() | Prints numbers, followed by a new line. |
-| [2-print_strings.c]() | Prints strings, followed by a new line. |
-| [3-print_all.c]() | Prints anything. |
+| [0-sum_them_all.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x10-variadic_functions/0-sum_them_all.c) | Returns the sum of all its parameters. |
+| [1-print_numbers.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x10-variadic_functions/1-print_numbers.c) | Prints numbers, followed by a new line. |
+| [2-print_strings.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x10-variadic_functions/2-print_strings.c) | Prints strings, followed by a new line. |
+| [3-print_all.c](https://github.com/MamaiTheCoder/alx-low_level_programming/blob/master/0x10-variadic_functions/3-print_all.c) | Prints anything. |
 
 ## Useful Resources
 * [*stdarg.h*](https://en.wikipedia.org/wiki/Stdarg.h)

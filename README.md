@@ -30,3 +30,4 @@ Note: The folder contains only projects in C programming language and bash.
 | [0x0F. C - Function pointers](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x0F-function_pointers) | function pointers |
 | [0x10. C - Variadic functions](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x10-variadic_functions) | variadic functions and using `va_start`, `va_arg`, `va_ed`, and `const` |
 | [0x12-singly_linked_lists](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x12-singly_linked_lists) | linked lists |
+| [0x13-more_singly_linked_lists](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists) | linked lists |

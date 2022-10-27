@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * size_t - prints all the elements of a listint_t list.
+ * print_listint - prints all the elements of a listint_t list.
  *
  * @h: head of the list
  *

@@ -2,7 +2,7 @@
 ALX project done to facilitate completion of Full Stack Software Engineering course.
 
 ## Learning Objectives
-* The Feynman Learning Technique
+* [The Feynman Learning Technique](https://fs.blog/feynman-learning-technique/)
 * Binary, hexadecimal, and decimal numbers.
 
 Technologies

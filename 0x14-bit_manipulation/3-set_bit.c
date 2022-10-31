@@ -5,17 +5,16 @@
  * @n: pointer of an unsigned long int.
  * @index: index of the bit.
  *
- * return: 1 if it works,
+ * Return: 1 if it works,
  * -1 if it fails.
  */
 int set_bit(unsigned long int *n, unsigned int index)
 {
-        unsigned int num;
+	unsigned long int num;
 
-        if (index > 63)
-                return (-1);
-
-        num = 1 << index;
-        *n = (*n | num);
-        return (1);
+	if (index > 63)
+		return (-1);
+	num = 1 << index;
+	*n = (*n | num);
+	return (1);
 }

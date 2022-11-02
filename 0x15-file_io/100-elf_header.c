@@ -50,6 +50,7 @@ void check_elf(unsigned char *e_ident)
 void print_magic(unsigned char *e_ident)
 {
 	int index;
+
 	printf("  Magic:   ");
 	for (index = 0; index < EI_NIDENT; index++)
 	{
@@ -228,7 +229,7 @@ void print_entry(unsigned long int e_entry, unsigned char *e_ident)
 	}
 	if (e_ident[EI_CLASS] == ELFCLASS32)
 		printf("%#x\n", (unsigned int)e_entry);
-	else		
+	else
 		printf("%#lx\n", e_entry);
 }
 

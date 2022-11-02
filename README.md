@@ -32,3 +32,4 @@ Note: The folder contains only projects in C programming language and bash.
 | [0x12-singly_linked_lists](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x12-singly_linked_lists) | linked lists |
 | [0x13-more_singly_linked_lists](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists) | linked lists |
 | [0x14-bit_manipulation](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x14-bit_manipulation) | Bit manipulation. |
+| [0x15-file_io](https://github.com/MamaiTheCoder/alx-low_level_programming/tree/master/0x15-file_io) | File descriptors |

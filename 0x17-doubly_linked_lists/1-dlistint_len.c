@@ -8,22 +8,9 @@
  */
 size_t dlistint_len(const dlistint_t *h)
 {
-	int number_of_elements = 0;
+	size_t i;
 
-	if (h == NULL)
-	{
-		return (number_of_elements);
-	}
-
-	while (h->prev != NULL)
-	{
-		h = h->prev;
-	}
-
-	while (h->next != NULL)
-	{
-		number_of_elements++;
+	for (i = 0; h != NULL; i++)
 		h = h->next;
-	}
-	return (number_of_elements);
+	return (i);
 }
